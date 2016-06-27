@@ -1,3 +1,5 @@
+###NOTE: This repo is forked from [Martin Esmann](https://github.com/martinesmann/jenkins-ci-template)
+
 #Jenkins-CI-Template
 This repo is intended to make it easy to set up Jenkins to build and deploy a Windows Service. 
 
